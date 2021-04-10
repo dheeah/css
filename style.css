@@ -1,0 +1,40 @@
+body {
+    border-style: groove;
+    border-color: white;
+font-family: 'Times New Roman', Times, serif; color: white;
+background-color:#002856
+}
+table, tr, th {
+    border: 1px solid rgb(255, 255, 255)
+}
+div a {
+    text-decoration-line: none; display: inline;
+}
+.Underline {
+    background-color: white;
+}
+
+.Myimage {
+    text-align: center;
+}
+table {
+    margin: auto;
+}
+td {
+    text-align: center;
+}
+.table {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: black 1px 1px;
+    text-decoration-line: inherit;
+}
+.carreer1 {
+    background-color:#32c495;
+    border: 15px solid #373d6f;
+    padding: 50px;
+    margin: 20px;
+}
